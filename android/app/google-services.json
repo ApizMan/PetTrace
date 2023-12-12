@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "564887217389",
+    "project_id": "fypposting-c6158",
+    "storage_bucket": "fypposting-c6158.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564887217389:android:739c20997c577c4c0018e4",
+        "android_client_info": {
+          "package_name": "com.example.tourism"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYmrrMMpo13VLnjwimSYDFKWokcximazw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
